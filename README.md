@@ -40,3 +40,11 @@ cd lit-using-openwc
 npm install
 npm start
 ```
+
+## Screenshot
+
+![image](https://github.com/psankhe28/lit-using-openwc/assets/84843461/d5e5808a-0262-42af-b371-bc1fbe8b7f59)
+
+## Demo
+
+![demo](https://github.com/psankhe28/lit-using-openwc/assets/84843461/d481b308-7a6d-4c37-8494-da5560d28cb8)
