@@ -25,7 +25,6 @@
     "storybook:build": "tsc && npm run analyze -- --exclude dist && build-storybook"
   },
   "dependencies": {
-    "@microsoft/fast-foundation": "^2.49.5",
     "build": "^0.1.4",
     "lit": "^2.0.2"
   },
